@@ -1,8 +1,14 @@
 # CDEV Quizzes
 
-This project was a collaboration between Valerie Haupt, Debra Koch, Conley Brown and Eleanny Barrera.
+## Description: What is the purpose of this Project?
 
-## Available Scripts
+The Purpose of this project was to showcase our understanding of ReactJS and Express through the development of a full stack application. 
+
+Along with three other classmates we decided to develope a full stack application where users can Creat, Take, Update, and Delete Quizzes on our site. The quizzes can be of any topic and length depending on the users preference. 
+
+
+
+### Available Scripts
 
 In the project directory, you can run:
 
@@ -45,26 +51,28 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
 ### Deployment
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
+## Author
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+**Ellie Barrera**
+
+Github: https://github.com/Elliediazz
+
+email: Elliediaz1204@gmail.com
+
+## Collaborators 
+**Valerie Haupt**
+
+Github: https://github.com/ValerieFH
+
+**Debra Koch**
+
+Github: https://github.com/DebraMK
+
+**Conley Brown**
+
+Github: https://github.com/ConleyJBrown
+
