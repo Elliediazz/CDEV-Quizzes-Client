@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# CDEV Quizzes
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was a collaboration between Valerie Haupt, Debra Koch, Conley Brown and Eleanny Barrera.
 
 ## Available Scripts
 
